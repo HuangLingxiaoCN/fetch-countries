@@ -9,7 +9,6 @@ function App() {
 
   const setSearchHandler = (countryName) => {
     setSearch(countryName);
-    console.log(search);
   };
 
   return (
